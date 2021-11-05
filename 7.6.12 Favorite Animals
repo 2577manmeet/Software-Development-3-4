@@ -1,0 +1,62 @@
+<html><head>
+
+    
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"><!-- oooo --></script>
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"><!-- SSSS --></script>
+    
+        <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- GGGG --></head>
+    
+    <body>
+        <div class="container">
+            <div class="jumbotron">
+                <h1>Favorite Animal by Continent<!-- eeeee --></h1>
+            <!-- ddddd --></div>
+            <table class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Continent<!-- xxx --></th>
+                        <th>Favorite Animal<!-- kkkkk --></th>
+                    <!-- bbbb --></tr>
+                <!-- HHHH --></thead>
+                <tbody>
+                    <tr>
+                        <td>Africa<!-- dddd --></td>
+                        <td>Lion<!-- GGG --></td>
+                    <!-- KKKKK --></tr>
+                    <tr>
+                        <td>Antarctica<!-- eeeee --></td>
+                        <td>Emperor Penguins<!-- pppp --></td>
+                    <!-- QQQQQ --></tr>
+                    <tr>
+                        <td>Asia<!-- wwwww --></td>
+                        <td>Elephant<!-- AAAAA --></td>
+                    <!-- bbb --></tr>
+                    <tr>
+                        <td>Europe<!-- GGGG --></td>
+                        <td>Wisent<!-- NNNN --></td>
+                    <!-- JJJ --></tr>
+                    <tr>
+                        <td>North America<!-- BBBB --></td>
+                        <td>Mountain Lion<!-- ppp --></td>
+                    <!-- ttttt --></tr>
+                    <tr>
+                        <td>South America<!-- lllll --></td>
+                        <td>Amazon Parrot<!-- yyyy --></td>
+                    <!-- IIIII --></tr>
+                <!-- CCCCC --></tbody>
+            <!-- wwww --></table>
+        <!-- BBB --></div>
+    <!-- FFFFF -->
+<!-- jjj -->
+
+        </body></html>
